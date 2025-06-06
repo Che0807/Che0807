@@ -122,13 +122,6 @@ graph LR
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/Che0807" width="600"/>
   </a>
-  
-  ### 🎮 움직이는 깃허브 펫
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/Che0807" width="1000" height="120"/>
-  </a>
-  
-</div>
 
 ---
 
