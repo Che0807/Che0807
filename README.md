@@ -118,8 +118,10 @@ graph LR
   ### 💭 오늘의 개발 명언
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
-  ### 🐍 잔디 뱀게임
-  ![Snake animation](https://github.com/Che0807/Che0807/blob/output/github-contribution-grid-snake.svg)
+  ###  펫 키우기
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
   
 </div>
 
