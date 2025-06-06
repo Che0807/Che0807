@@ -123,9 +123,9 @@ graph LR
     <img src="https://render.gitanimals.org/farms/Che0807" width="600"/>
   </a>
   
-  ### 🎮 펫과 함께하는 깃허브 라이프
+  ### 🎮 움직이는 깃허브 펫
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/Che0807?pet-id=1" width="1000" height="120"/>
+    <img src="https://render.gitanimals.org/lines/Che0807" width="1000" height="120"/>
   </a>
   
 </div>
