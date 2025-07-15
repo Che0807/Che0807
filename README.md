@@ -45,12 +45,6 @@ const 개발자 = {
 
 ---
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Che0807&theme=radical&hide_border=true)
-  
-</div>
-
 ## 🌐 연락하기
 
 <div align="center">
