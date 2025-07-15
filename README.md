@@ -60,48 +60,6 @@ const 개발자 = {
   
 </div>
 
----
-
-## 🎯 2025년 목표
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎯 올해 목표] --> B[스프링 부트 마스터]
-    A --> C[JPA/하이버네이트 정복]
-    A --> D[AWS 배포 성공]
-    A --> E[포트폴리오 프로젝트 완성]
-    B --> F[🚀 풀스택 개발자 되기]
-    C --> F
-    D --> F
-    E --> F
-```
-
-</div>
-
----
-
-## 🏆 깃허브 트로피
-
-<div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=Che0807&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-  
-</div>
-
----
-
-## 📈 활동 그래프
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Che0807&theme=react-dark&hide_border=true)
-  
-</div>
-
----
-
 ## 🌐 연락하기
 
 <div align="center">
@@ -112,11 +70,6 @@ graph LR
 </div>
 
 ---
-
-<div align="center">
-  
-  ### 💭 오늘의 개발 명언
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   ### 🐾 내 깃허브 펫들
   <a href="https://github.com/devxb/gitanimals">
