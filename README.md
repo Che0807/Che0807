@@ -45,15 +45,6 @@ const 개발자 = {
 
 ---
 
-## 📊 깃허브 통계
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Che0807&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Che0807&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-  
-</div>
-
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Che0807&theme=radical&hide_border=true)
